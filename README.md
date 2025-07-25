@@ -1,2 +1,0 @@
-# Espanol
-vocabulary
