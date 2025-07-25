@@ -1,4 +1,3 @@
-
 // JavaScript 主控制檔：app.js
 
 let vocabularyData = [];
@@ -162,3 +161,4 @@ function renderMistakeReview() {
 }
 
 // 響應式樣式可用 CSS 實作，請搭配 styles.css
+
